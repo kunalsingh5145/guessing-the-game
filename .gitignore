@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+venv/
+.env/
+
+# Python packaging
+dist/
+build/
+*.egg-info/
+
+# Screenshots or large media (optional)
+screenshots/*.png
+screenshots/*.jpg
